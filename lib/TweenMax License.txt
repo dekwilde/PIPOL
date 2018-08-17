@@ -1,0 +1,50 @@
+Copyright 2008, GreenSock, Inc.
+
+"NO CHARGE" NON-EXCLUSIVE SOFTWARE LICENSE AGREEMENT
+
+-----------------------------------------------------------------------------
+PLAIN ENGLISH SUMMARY:
+
+   1. You may use the code at no charge in web sites, games, components, applications, and other software as long as end users are not charged a fee of any kind to use your product or gain access to it. It doesn’t matter if you are paid to create the site/product. If you charge end users a fee, you must sign up for a corporate Club GreenSock membership which comes with a commercial license granting you permission to do so. See http://blog.greensock.com/club/ for details.
+   2. Since the code is updated frequently and developers are best served by having the latest version, please avoid (or at least minimize) distributing the source code outside your organization.
+   3. Use at your own risk. I offer no warranties.
+   4. Please respect the copyright.
+
+-----------------------------------------------------------------------------
+
+LEGALESE:
+
+This is a legal agreement between you (either an individual or a single entity) and GreenSock, Inc. ("GREENSOCK") for the proprietary GreenSock ActionScript code known as TweenLite, TweenFilterLite, TweenMax, TweenGroup, OverwriteManager, and other code that is freely available for download at http://blog.greensock.com or http://www.greensock.com (this code and documentation, as well as any updates which may at GREENSOCK's sole discretion be provided to you from time to time, are referred to in this Agreement as "PROGRAM") By installing, copying, or otherwise using the PROGRAM, you agree to the terms and conditions of this Agreement. If you do not agree to the terms and conditions of this Agreement, please do not install or use the PROGRAM.
+
+I. LICENSE
+A. Subject to the terms and conditions of this Agreement, GREENSOCK hereby grants you a non-exclusive, worldwide, non-transferable right to use the PROGRAM in web sites, games, applications, components and other software for which the end user is NOT charged any fees. If you would like to use the code in a commercially licensed software product for which end users are charged a fee (either for usage or access), simply sign up for a corporate Club GreenSock membership at http://blog.greensock.com/club/.
+
+II. LIMITATION OF LICENSE AND RESTRICTIONS
+A. You agree that you will not disclose, sell, rent, license, or otherwise distribute the PROGRAM's source code or any derivative works thereof to any third party without the prior written consent of GREENSOCK. Derivative works are defined as modifications that add substantive functionality to the PROGRAM and do not include bug fixes or other minor modifications required to operate the PROGRAM as originally intended. Limited distribution of the source code to vendors as part of your Work Product is acceptable so long as they agree to the terms of this Agreement. You agree not to modify or delete GreenSock's existing copyright notice located in the source code.
+
+B. You may use, duplicate, and distribute the compiled object code solely as embedded in a Work Product created by you, either for your own use or for distribution to a third party so long as end users of the Work Product are not charged a fee for usage. Please see http://blog.greensock.com/licensing/ for descriptions of Work Products that qualify for the "No Charge" license.
+
+III. CONSIDERATION
+A. The license rights granted to you under this Agreement are at no charge, but only in the following circumstances: If, either on your own behalf or on behalf of a third party, you incorporate the Software into a web site, software application, program or any component thereof (collectively, “Work Product”), which in the case of a web site, must be accessible to internet users without payment of a fee of any kind by a user, and in the case of a software application, program or component, neither you nor anyone to whom you distribute the Work Product charges a user a fee of any kind to use such Work Product or application, program or component into which such Work Product is embedded. The foregoing shall apply regardless of whether you are paid to create such Work Product and, under any circumstances, shall be subject to the prohibition against distribution of Source Code set forth in Section II.
+
+B. In the event your intended use of the Software does not meet the criteria for the “no charge” license rights set forth in the immediately preceding paragraph, then you are not licensed to use the PROGRAM under this Agreement and must license the PROGRAM under GreenSock’s separate fee-based Software License Agreement which is granted to corporate Club GreenSock members (see http://blog.greensock.com/club/ for details).
+
+IV. TITLE AND OWNERSHIP
+A. The PROGRAM is licensed, not sold, and is protected by copyright laws and international treaty provisions. You acknowledge that no title to the intellectual property in the Software is transferred to you. You further acknowledge that title and full ownership rights to the PROGRAM, including all intellectual property rights therein, will remain the exclusive property of GreenSock and you will not acquire any rights to the PROGRAM except as expressly set forth in this Agreement. You agree that any copies of the PROGRAM you make will contain the same proprietary notices which appear on and in the PROGRAM.
+
+V. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+A. THE PROGRAM IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. GREENSOCK DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE PROGRAM WILL MEET YOUR REQUIREMENTS OR THAT OPERATION WILL BE UNINTERRUPTED OR ERROR FREE. GREENSOCK shall not be liable for special, indirect, incidental, or consequential damages with respect to any claim on account of or arising from this Agreement or use of the PROGRAM, even if GREENSOCK has been or is hereafter advised of the possibility of such damages. Because some states do not allow certain exclusions or limitations on implied warranties or of liability for consequential or incidental damages, the above exclusions may not apply to you. In no event, however, will GREENSOCK be liable to you, under any theory of recovery, in an amount in excess of the license fee paid by you under this Agreement. Notwithstanding anything else in this agreement, you agree to indemnify GREENSOCK, its assignees, and licensees, and hold each of them harmless from and against any and all claims, demands, losses, damages, liabilities, costs, and expenses, including legal fees.
+
+B. GREENSOCK may, at its sole discretion, provide support services related to the PROGRAM, but has no obligation to do so.
+
+VI. TERMINATION
+GreenSock may terminate this Agreement at any time if you fail to comply with the terms and conditions of this Agreement.
+
+VII. MISCELLANEOUS
+A. This Agreement shall be construed in accordance with the laws of the State of Illinois. Should you for any reason bring a claim, demand, or other action against GREENSOCK, its agents or employees, arising out of this Agreement or the PROGRAM licensed herein, you agree to bring said claim only in the Illinois Court of Claims.
+
+B. THIS AGREEMENT REPRESENTS THE COMPLETE AND EXCLUSIVE STATEMENT OF THE AGREEMENT BETWEEN GREENSOCK AND YOU AND SUPERSEDES ALL PRIOR AGREEMENTS, PROPOSALS, REPRESENTATIONS AND OTHER COMMUNICATIONS, VERBAL OR WRITTEN, BETWEEN THEM WITH RESPECT TO USE OF THE PROGRAM. THIS AGREEMENT MAY BE MODIFIED ONLY WITH THE MUTUAL WRITTEN APPROVAL OF AUTHORIZED REPRESENTATIVES OF THE PARTIES.
+
+C. The terms and conditions of this Agreement shall prevail notwithstanding any different, conflicting, or additional terms or conditions which may appear in any purchase order or other document submitted by you. You agree that such additional or inconsistent terms are deemed rejected by GREENSOCK.
+
+D. GREENSOCK and you agree that any xerographically or electronically reproduced copy of this Agreement shall have the same legal force and effect as any copy bearing original signatures of the parties.

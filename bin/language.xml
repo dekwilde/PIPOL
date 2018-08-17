@@ -1,0 +1,10 @@
+<config>
+	<lang>
+		<name>English</name>
+		<file>language_us.xml</file>
+	</lang>
+	<lang>
+		<name>Portugues</name>
+		<file>language_br.xml</file>
+	</lang>
+</config>
